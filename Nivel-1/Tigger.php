@@ -19,7 +19,7 @@ class Tigger {
             self::$counter++;
             echo "Grrr!" . PHP_EOL;
     }
-
+    
     public static function getCounter() {
         return self::$counter;
     }
