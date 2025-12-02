@@ -1,7 +1,7 @@
 <?php
 class Wallet {
      public function pick() {
-        echo "Pick my wallet";
+        echo "Pick my wallet ";
      }   
 }
 ?>

@@ -7,7 +7,7 @@ $bigStock = true;
 
 $bmw = new BMWCouponGenerator();
 
-echo $bmw->generateCoupon($isHighSeason, $bigStock);
+echo $bmw->generateCoupon($isHighSeason, $bigStock) . "<br>";
 
 $mercedes = new MercedesCouponGenerator();
 

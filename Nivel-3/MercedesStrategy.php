@@ -1,5 +1,5 @@
 <?php
-require 'carCouponGenerator.php';
+require_once 'carCouponGenerator.php';
 
 class MercedesStrategy implements carCouponGenerator {
    private $discount = 0;

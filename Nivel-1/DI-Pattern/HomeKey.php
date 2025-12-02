@@ -1,7 +1,7 @@
 <?php
 class HomeKey {
      public function pick() {
-        echo "Pick the keyyss!!";
+        echo "Pick the keyyss!! ";
      }   
 }
 ?>

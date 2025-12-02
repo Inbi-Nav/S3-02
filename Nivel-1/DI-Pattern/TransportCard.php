@@ -1,7 +1,7 @@
 <?php
 class TransportCard {
      public function pick() {
-        echo "Pick my card";
+        echo "Pick my card ";
      }   
 }
 ?>

@@ -13,4 +13,4 @@ $smartPhone = new SmartPhone();
 
 $toDo = new ToDoTasks($wallet, $homeKey, $transportCard, $smartPhone);
 
-$toDo->leaveHome();
+$toDo->leaveHome(). PHP_EOL;
